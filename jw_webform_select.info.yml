@@ -1,0 +1,6 @@
+name: JW Webform Select
+description: Populates the webform select from custom lists via webservices.
+package: Custom
+
+type: module
+core: 8.x
